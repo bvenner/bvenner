@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bvenner
-- 👀 I’m interested in helping with the energy transition
+- 👀 I’m interested in democratic ecological socialism
 - 🌱 I’m currently learning graded adjoint logic
 - 📫 How to reach me: bvenner at proton dot me
 
