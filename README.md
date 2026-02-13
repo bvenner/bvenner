@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bvenner
-- 👀 I’m interested in the energy transition
-- 🌱 I’m currently learning categorical cybernetics, autonomous energy systems
-- 💞️ I’m looking to collaborate on using categorical cybernetics to improve autonomous energy systems
+- 👀 I’m interested in helping with the energy transition
+- 🌱 I’m currently learning graded adjoint logic
 - 📫 How to reach me: bvenner at proton dot me
 
 <!---
